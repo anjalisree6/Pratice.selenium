@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50" started-at="2018-06-30T06:49:17Z" finished-at="2018-06-30T06:49:17Z">
+    <groups>
+      <group name="functional">
+        <method signature="TC_001.login()[pri:0, instance:com.code.Pratice.selenium.home.TC_001@17fd0e6]" name="login" class="com.code.Pratice.selenium.home.TC_001"/>
+      </group> <!-- functional -->
+      <group name="non-functional">
+        <method signature="TC_001.end()[pri:0, instance:com.code.Pratice.selenium.home.TC_001@17fd0e6]" name="end" class="com.code.Pratice.selenium.home.TC_001"/>
+        <method signature="TC_001.test()[pri:0, instance:com.code.Pratice.selenium.home.TC_001@17fd0e6]" name="test" class="com.code.Pratice.selenium.home.TC_001"/>
+      </group> <!-- non-functional -->
+    </groups>
+    <test name="Default test" duration-ms="50" started-at="2018-06-30T06:49:17Z" finished-at="2018-06-30T06:49:17Z">
+      <class name="com.code.Pratice.selenium.home.TC_001">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.code.Pratice.selenium.home.TC_001@17fd0e6]" name="login" is-config="true" duration-ms="20" started-at="2018-06-30T06:49:17Z" finished-at="2018-06-30T06:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.code.Pratice.selenium.home.TC_001@17fd0e6]" name="end" duration-ms="10" started-at="2018-06-30T06:49:17Z" finished-at="2018-06-30T06:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.code.Pratice.selenium.home.TC_001@17fd0e6]" name="login" duration-ms="0" started-at="2018-06-30T06:49:17Z" finished-at="2018-06-30T06:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.code.Pratice.selenium.home.TC_001@17fd0e6]" name="test" duration-ms="10" started-at="2018-06-30T06:49:17Z" finished-at="2018-06-30T06:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.code.Pratice.selenium.home.TC_001@17fd0e6]" name="end" is-config="true" duration-ms="0" started-at="2018-06-30T06:49:17Z" finished-at="2018-06-30T06:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.code.Pratice.selenium.home.TC_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
